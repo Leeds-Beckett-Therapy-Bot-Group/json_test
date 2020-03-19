@@ -1,0 +1,61 @@
+[{
+    "index": 1,
+    "timestamp": "2020-03-19 17:57:07.399392",
+    "happiness": 3,
+    "confidence": 2,
+    "activeness": 3
+},{
+    "index": 2,
+    "timestamp": "2020-03-19 17:57:08.400624",
+    "happiness": 2,
+    "confidence": 9,
+    "activeness": 4
+},{
+    "index": 3,
+    "timestamp": "2020-03-19 17:57:09.402102",
+    "happiness": 3,
+    "confidence": 1,
+    "activeness": 9
+},{
+    "index": 4,
+    "timestamp": "2020-03-19 17:57:10.403925",
+    "happiness": 10,
+    "confidence": 10,
+    "activeness": 10
+},{
+    "index": 5,
+    "timestamp": "2020-03-19 17:57:11.404613",
+    "happiness": 7,
+    "confidence": 10,
+    "activeness": 6
+},]{
+    "index": 1,
+    "timestamp": "2020-03-19 18:01:24.123834",
+    "happiness": 6,
+    "confidence": 6,
+    "activeness": 3
+},{
+    "index": 2,
+    "timestamp": "2020-03-19 18:01:25.125826",
+    "happiness": 7,
+    "confidence": 10,
+    "activeness": 8
+},{
+    "index": 3,
+    "timestamp": "2020-03-19 18:01:26.127563",
+    "happiness": 7,
+    "confidence": 9,
+    "activeness": 3
+},{
+    "index": 4,
+    "timestamp": "2020-03-19 18:01:27.127761",
+    "happiness": 1,
+    "confidence": 1,
+    "activeness": 8
+},{
+    "index": 5,
+    "timestamp": "2020-03-19 18:01:28.128750",
+    "happiness": 9,
+    "confidence": 10,
+    "activeness": 7
+},
